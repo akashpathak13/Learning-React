@@ -7,5 +7,9 @@ list.map((curr) => {
 
 ans = list.filter((curr) => (curr%2 !== 0))
 ans.map((curr) => {
-    console.log(curr)
+    // console.log(curr)
 })
+
+for(let i=0; i<=10; i++){
+    console.log(i*10)
+}
