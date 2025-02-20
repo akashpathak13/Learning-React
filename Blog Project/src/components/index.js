@@ -3,4 +3,8 @@ import Footer from './Footer/Footer'
 import LogoutBtn from './Header/LogoutBtn.jsx'
 import Container from './container/Container.jsx'
 import Logo from './Logo.jsx'
-export {Header,Footer,LogoutBtn,Container,Logo}
+import Input from './Input.jsx'
+import Button from './Button.jsx'
+import Select from './Select.jsx'
+import PostCard from './Postcard.jsx'
+export {Header,Footer,LogoutBtn,Container,Logo,Input, Button, Select,PostCard}
